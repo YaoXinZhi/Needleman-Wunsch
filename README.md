@@ -24,3 +24,7 @@ For example, you can change the default score system, change the matching score 
 
 If you want to ask for help, you can use the following command line, although it does not make much difference:
 > python Needleman-Wunsch.py -h
+
+17.11.22
+
+After the update, for the complete algorithm, you can get the scores and the best match of each sequence.
