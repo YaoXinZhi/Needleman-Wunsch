@@ -28,3 +28,9 @@ If you want to ask for help, you can use the following command line, although it
 17.11.22
 
 After the update, for the complete algorithm, you can get the scores and the best match of each sequence.
+
+But there are still some problems:
+This algorithm allows only one insertion or deletion of two sequences
+Sequence alignments with high scores can not be given priority
+
+Of course, the second problem is easy to solve, but it's a bit lazy to me, so I'm waiting for your optimization to be done
